@@ -19,6 +19,6 @@ pip install matplotlib
 To run the script, simply execute it in your Python environment:
 
 ```bash
-python script.py
+python main.py
 ```
 You will be prompted to either provide your own data points or generate random ones.
